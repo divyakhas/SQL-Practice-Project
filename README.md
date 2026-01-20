@@ -71,7 +71,7 @@ This project covers end-to-end SQL learning topics using the `classicmodels` sam
 ## 🛠️ How to Use the Project
 
 1. Import or open the SQL file in your MySQL environment:
-   **`Stock analysis query.sql`** 
+   **Sql Practice Project.sql** 
 2. Execute queries step by step to practice each concept.
 3. Modify or extend the examples for deeper learning.
 4. Use the ClassicModels database or create the custom tables included in the file.
